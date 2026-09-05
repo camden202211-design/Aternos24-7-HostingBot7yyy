@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "GlowcraftMC.aternos.me",
+    "port": 15291,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
