@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "GlowcraftBot",
     "password": "",
-    "type": "microsoft"
+    "type": "offline"
   },
   "server": {
     "ip": "GlowcraftMC.aternos.me",
