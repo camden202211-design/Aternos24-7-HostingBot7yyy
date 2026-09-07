@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 1,
+      "repeat-delay": 120,
       "messages": [
         "If you have a account that has java and bedrock minecraft if you let me use it i will give you OP and OWNER rank. Email:Camden@petlover.com",
         "This is a full anarchy server"
@@ -37,8 +37,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 20,
-    "max-reconnect-delay": 12000
+    "auto-reconnect-delay": 2000,
+    "max-reconnect-delay": 12000,
   },
   "movement": {
     "enabled": true,
