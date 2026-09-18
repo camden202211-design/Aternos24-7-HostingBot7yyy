@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot1",
   "bot-account": {
-    "username": "GlowcraftBot1",
+    "username": "Falsyy",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "GlowcraftMC.aternos.me",
-    "port": 15291,
-    "version": "1.20.1",
+    "ip": "Onfunskysmp.aternos.me",
+    "port": "47400",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,8 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "If you have a account that has java and bedrock minecraft if you let me use it i will give you OP and OWNER rank. Email:Camden@petlover.com",
-        "GlowCraft Hosted By TRUxDOMEDxJR"
+        "Guys Can Someone Tpa To Me?"
       ]
     },
     "chat-log": true,
