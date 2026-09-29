@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GlowcraftMC.aternos.me",
-    "port": 15291,
+    "ip": "Glow.sadhost.com",
+    "port": 28012,
     "version": "1.20.1",
     "try-creative": false
   },
